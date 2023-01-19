@@ -1,0 +1,15 @@
+D:\Прграммирование\урок_2\bin\Debug\net7.0\урок_2.exe
+D:\Прграммирование\урок_2\bin\Debug\net7.0\урок_2.deps.json
+D:\Прграммирование\урок_2\bin\Debug\net7.0\урок_2.runtimeconfig.json
+D:\Прграммирование\урок_2\bin\Debug\net7.0\урок_2.dll
+D:\Прграммирование\урок_2\bin\Debug\net7.0\урок_2.pdb
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.csproj.AssemblyReference.cache
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.AssemblyInfoInputs.cache
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.AssemblyInfo.cs
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.csproj.CoreCompileInputs.cache
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.dll
+D:\Прграммирование\урок_2\obj\Debug\net7.0\refint\урок_2.dll
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.pdb
+D:\Прграммирование\урок_2\obj\Debug\net7.0\урок_2.genruntimeconfig.cache
+D:\Прграммирование\урок_2\obj\Debug\net7.0\ref\урок_2.dll

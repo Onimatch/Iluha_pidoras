@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_1\bin\Debug\net7.0\Урок_1.exe
+D:\Прграммирование\Урок_1\bin\Debug\net7.0\Урок_1.deps.json
+D:\Прграммирование\Урок_1\bin\Debug\net7.0\Урок_1.runtimeconfig.json
+D:\Прграммирование\Урок_1\bin\Debug\net7.0\Урок_1.dll
+D:\Прграммирование\Урок_1\bin\Debug\net7.0\Урок_1.pdb
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.AssemblyInfo.cs
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.dll
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\refint\Урок_1.dll
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.pdb
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\Урок_1.genruntimeconfig.cache
+D:\Прграммирование\Урок_1\obj\Debug\net7.0\ref\Урок_1.dll
