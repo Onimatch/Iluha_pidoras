@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_7_Цикл\bin\Debug\net7.0\Урок_7_Цикл.exe
+D:\Прграммирование\Урок_7_Цикл\bin\Debug\net7.0\Урок_7_Цикл.deps.json
+D:\Прграммирование\Урок_7_Цикл\bin\Debug\net7.0\Урок_7_Цикл.runtimeconfig.json
+D:\Прграммирование\Урок_7_Цикл\bin\Debug\net7.0\Урок_7_Цикл.dll
+D:\Прграммирование\Урок_7_Цикл\bin\Debug\net7.0\Урок_7_Цикл.pdb
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.AssemblyInfo.cs
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.dll
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\refint\Урок_7_Цикл.dll
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.pdb
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\Урок_7_Цикл.genruntimeconfig.cache
+D:\Прграммирование\Урок_7_Цикл\obj\Debug\net7.0\ref\Урок_7_Цикл.dll
