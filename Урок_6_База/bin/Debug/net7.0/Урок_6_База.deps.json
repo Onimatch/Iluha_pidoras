@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Урок_6_База/1.0.0": {
+        "runtime": {
+          "Урок_6_База.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Урок_6_База/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

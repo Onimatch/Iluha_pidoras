@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_6_База\bin\Debug\net7.0\Урок_6_База.exe
+D:\Прграммирование\Урок_6_База\bin\Debug\net7.0\Урок_6_База.deps.json
+D:\Прграммирование\Урок_6_База\bin\Debug\net7.0\Урок_6_База.runtimeconfig.json
+D:\Прграммирование\Урок_6_База\bin\Debug\net7.0\Урок_6_База.dll
+D:\Прграммирование\Урок_6_База\bin\Debug\net7.0\Урок_6_База.pdb
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.AssemblyInfo.cs
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.dll
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\refint\Урок_6_База.dll
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.pdb
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\Урок_6_База.genruntimeconfig.cache
+D:\Прграммирование\Урок_6_База\obj\Debug\net7.0\ref\Урок_6_База.dll
