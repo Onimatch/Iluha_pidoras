@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.AssemblyInfo.cs
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_5_Условие\bin\Debug\net7.0\Урок_5_Условие.exe
+D:\Прграммирование\Урок_5_Условие\bin\Debug\net7.0\Урок_5_Условие.deps.json
+D:\Прграммирование\Урок_5_Условие\bin\Debug\net7.0\Урок_5_Условие.runtimeconfig.json
+D:\Прграммирование\Урок_5_Условие\bin\Debug\net7.0\Урок_5_Условие.dll
+D:\Прграммирование\Урок_5_Условие\bin\Debug\net7.0\Урок_5_Условие.pdb
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.dll
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\refint\Урок_5_Условие.dll
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.pdb
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\Урок_5_Условие.genruntimeconfig.cache
+D:\Прграммирование\Урок_5_Условие\obj\Debug\net7.0\ref\Урок_5_Условие.dll
