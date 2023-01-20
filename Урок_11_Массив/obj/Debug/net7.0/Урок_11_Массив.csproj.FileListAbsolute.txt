@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_11_Массив\bin\Debug\net7.0\Урок_11_Массив.exe
+D:\Прграммирование\Урок_11_Массив\bin\Debug\net7.0\Урок_11_Массив.deps.json
+D:\Прграммирование\Урок_11_Массив\bin\Debug\net7.0\Урок_11_Массив.runtimeconfig.json
+D:\Прграммирование\Урок_11_Массив\bin\Debug\net7.0\Урок_11_Массив.dll
+D:\Прграммирование\Урок_11_Массив\bin\Debug\net7.0\Урок_11_Массив.pdb
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.AssemblyInfo.cs
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.dll
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\refint\Урок_11_Массив.dll
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.pdb
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\Урок_11_Массив.genruntimeconfig.cache
+D:\Прграммирование\Урок_11_Массив\obj\Debug\net7.0\ref\Урок_11_Массив.dll

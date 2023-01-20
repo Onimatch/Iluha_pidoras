@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Урок_11_Массив/1.0.0": {
+        "runtime": {
+          "Урок_11_Массив.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Урок_11_Массив/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
