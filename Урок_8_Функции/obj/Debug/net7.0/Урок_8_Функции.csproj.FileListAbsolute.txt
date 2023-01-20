@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_8_Функции\bin\Debug\net7.0\Урок_8_Функции.exe
+D:\Прграммирование\Урок_8_Функции\bin\Debug\net7.0\Урок_8_Функции.deps.json
+D:\Прграммирование\Урок_8_Функции\bin\Debug\net7.0\Урок_8_Функции.runtimeconfig.json
+D:\Прграммирование\Урок_8_Функции\bin\Debug\net7.0\Урок_8_Функции.dll
+D:\Прграммирование\Урок_8_Функции\bin\Debug\net7.0\Урок_8_Функции.pdb
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.AssemblyInfo.cs
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.dll
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\refint\Урок_8_Функции.dll
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.pdb
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\Урок_8_Функции.genruntimeconfig.cache
+D:\Прграммирование\Урок_8_Функции\obj\Debug\net7.0\ref\Урок_8_Функции.dll
