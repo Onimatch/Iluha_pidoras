@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.AssemblyInfo.cs
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_12_методы\bin\Debug\net7.0\Урок_12_методы.exe
+D:\Прграммирование\Урок_12_методы\bin\Debug\net7.0\Урок_12_методы.deps.json
+D:\Прграммирование\Урок_12_методы\bin\Debug\net7.0\Урок_12_методы.runtimeconfig.json
+D:\Прграммирование\Урок_12_методы\bin\Debug\net7.0\Урок_12_методы.dll
+D:\Прграммирование\Урок_12_методы\bin\Debug\net7.0\Урок_12_методы.pdb
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.dll
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\refint\Урок_12_методы.dll
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.pdb
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\Урок_12_методы.genruntimeconfig.cache
+D:\Прграммирование\Урок_12_методы\obj\Debug\net7.0\ref\Урок_12_методы.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Урок_12_методы/1.0.0": {
+        "runtime": {
+          "Урок_12_методы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Урок_12_методы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
