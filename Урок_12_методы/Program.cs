@@ -34,7 +34,7 @@ void Metod21(string msg, int count)// принимает значение но �
 
 //Вид4 Получают и возвращают
 
-string Metod4(int count, string c)
+/*string Metod4(int count, string c)
 {
     int i = 0;
     string result = String.Empty;
@@ -49,4 +49,30 @@ return result;
 }
 
 string res = Metod4(10, "asdf");
-Console.WriteLine(res);
+Console.WriteLine(res);*/
+
+//Цикл for
+
+string Metod4(int count, string c)
+{
+        string result = String.Empty;
+for( int i =0; i < count; i++ )
+{
+     result= result +c;
+   
+}
+return result;
+}
+
+string res = Metod4(10, "asdf");
+//Console.WriteLine(res);
+
+
+for (int i =2; i <= 10; i++)
+{
+    for(int j = 2; j<=10; j++)
+    {
+        Console.WriteLine($"{i} x {j} = {i * j}");
+    }
+    Console.WriteLine();
+}
