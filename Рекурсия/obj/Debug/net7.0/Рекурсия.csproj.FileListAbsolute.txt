@@ -1,0 +1,15 @@
+D:\Прграммирование\Рекурсия\bin\Debug\net7.0\Рекурсия.exe
+D:\Прграммирование\Рекурсия\bin\Debug\net7.0\Рекурсия.deps.json
+D:\Прграммирование\Рекурсия\bin\Debug\net7.0\Рекурсия.runtimeconfig.json
+D:\Прграммирование\Рекурсия\bin\Debug\net7.0\Рекурсия.dll
+D:\Прграммирование\Рекурсия\bin\Debug\net7.0\Рекурсия.pdb
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.csproj.AssemblyReference.cache
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.AssemblyInfoInputs.cache
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.AssemblyInfo.cs
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.dll
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\refint\Рекурсия.dll
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.pdb
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\Рекурсия.genruntimeconfig.cache
+D:\Прграммирование\Рекурсия\obj\Debug\net7.0\ref\Рекурсия.dll
