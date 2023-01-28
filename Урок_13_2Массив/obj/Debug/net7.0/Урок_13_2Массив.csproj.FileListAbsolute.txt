@@ -1,0 +1,15 @@
+D:\Прграммирование\Урок_13_2Массив\bin\Debug\net7.0\Урок_13_2Массив.exe
+D:\Прграммирование\Урок_13_2Массив\bin\Debug\net7.0\Урок_13_2Массив.deps.json
+D:\Прграммирование\Урок_13_2Массив\bin\Debug\net7.0\Урок_13_2Массив.runtimeconfig.json
+D:\Прграммирование\Урок_13_2Массив\bin\Debug\net7.0\Урок_13_2Массив.dll
+D:\Прграммирование\Урок_13_2Массив\bin\Debug\net7.0\Урок_13_2Массив.pdb
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.csproj.AssemblyReference.cache
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.AssemblyInfoInputs.cache
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.AssemblyInfo.cs
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.csproj.CoreCompileInputs.cache
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.dll
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\refint\Урок_13_2Массив.dll
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.pdb
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\Урок_13_2Массив.genruntimeconfig.cache
+D:\Прграммирование\Урок_13_2Массив\obj\Debug\net7.0\ref\Урок_13_2Массив.dll
